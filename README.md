@@ -60,6 +60,6 @@ Use Mythos-class security tooling to:
 
 ## Contact
 
-- GitHub: [@af0rr](https://github.com/af0rr)
+- GitHub: [@af0rr](https://github.com/aqf1244-spec)
 - Location: Santiago, Chile
 - Organization: PRAXIS-AI-CONSULTING
